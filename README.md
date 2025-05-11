@@ -13,12 +13,12 @@ An AI-enhanced Snakes and Ladders game with adaptive riddles, built using Python
 ---
 
 ## 🎥 Demo Video
-[![Watch the Demo](https://youtu.be/bBwPiHrOGls)
+[![Watch the Demo](https://img.youtube.com/vi/bBwPiHrOGls/0.jpg)](https://youtu.be/bBwPiHrOGls)
 
 ---
 
 ## 📄 Project Documentation
-- 📘 [Download Project Report](./Brainy_Ladders_Project_Report.docx)
+- 📘 [Download Project Report](./PROJECT_REPORT.pdf)
 
 ---
 
